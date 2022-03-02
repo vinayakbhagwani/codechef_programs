@@ -1,4 +1,3 @@
-# codechef_programs
-Solutions to various programs on codechef
+# programming
 
 Java Programs - https://github.com/vinayakbhagwani/codechef_programs/tree/feature/java-programs
